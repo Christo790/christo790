@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📝 I regularly write articles on [https://christo.qzz.io/](https://christo.qzz.io/)
+- 📝 Visit me   [👍](https://christo.qzz.io/)
 
 - 📫 How to reach me **christosgeorge0@gmail.com**
 
