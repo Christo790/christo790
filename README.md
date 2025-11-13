@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning **BCA**
 
-- 🌱 I’m currently working in **Crypto live price api**
+- 🌱 I’m currently working in **Crypto Live Price API**
 
 - 📝 Visit me   [👍](https://christo.qzz.io/)
 
